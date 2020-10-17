@@ -1,0 +1,2 @@
+# WGCORP250-AUTOBOT
+Auto bot
